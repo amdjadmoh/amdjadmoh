@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=200&section=header&text=Mehdi%20Mohamed%20Amdjad&fontSize=44&fontAlignY=38&desc=Backend%20Developer%20%7C%20Security%20Enthusiast&descAlignY=58&descSize=18&fontColor=c0caf5&descColor=7aa2f7&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=800&color=7AA2F7&center=true&vCenter=true&width=640&lines=Backend+Developer+%F0%9F%9A%80;CTF+Challenge+Creator+%F0%9F%8E%AF;Security+Enthusiast+%F0%9F%94%91;Currently+studying+AI+Security+%F0%9F%A4%96;Building+systems.+Breaking+them.+%F0%9F%8C%99)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=800&color=7AA2F7&center=true&vCenter=true&width=640&lines=Backend+Developer+%F0%9F%9A%80;CTF+Player+%F0%9F%8E%AF;Security+Enthusiast+%F0%9F%94%91;Currently+studying+AI+Security+%F0%9F%A4%96;Building+systems.+Breaking+them.+%F0%9F%8C%99)](https://git.io/typing-svg)
 
 <br/>
 
@@ -28,7 +28,7 @@ class Amdjad:
         "desktop"    : ["Electron"],
     }
 
-    interests  = ["CTF Design", "OSINT", "Cybersecurity", "Puzzle Craft"]
+    interests  = ["CTF Player", "OSINT", "Cybersecurity", "Puzzle Craft"]
     learning   = "AI Security 🤖🔐"
     motto      = "Building systems by day. Securing them by night. 🌙"
 ```

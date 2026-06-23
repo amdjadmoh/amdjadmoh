@@ -17,9 +17,6 @@
 ```python
 class Amdjad:
     name      = "Mehdi Mohamed Amdjad"
-    aliases   = ["L_autor", "denzeno"]
-    base      = "Algeria 🇩🇿"
-
     stack     = {
         "languages"  : ["Python", "TypeScript", "JavaScript"],
         "backend"    : ["Node.js", "Express"],
